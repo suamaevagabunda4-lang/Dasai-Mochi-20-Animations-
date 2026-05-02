@@ -1,4 +1,4 @@
-# Dasai-Mochi-20-Animations-ESp8266 NodeMCU
+# Dasai-Mochi-20-Animations-ESP8266 NodeMCU
 ESP8266 + SSD1306 GIF Player
 How to compile and flash (without IDE)
 Option 1: Gitpod (easiest)
